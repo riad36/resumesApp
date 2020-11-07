@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.resumes.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "gateway",
+    "baseName": "resumApp",
+    "packageName": "com.resumes.app",
+    "packageFolder": "com/resumes/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDIwZTE4ODllYTk5YmNkNTBkMWUyZTlhMmUxOTlmNThkMzQ2NWUwZmNmYmE5YzUwOTZlOTU2MDRiM2QzODUzMDA4ZTYzYzMxOWQ1ZDZlNTc0NzY5MzQzZjRkY2YyOTY0Nzk4YjJmNGUyZjBmMjRhNTBmNTQxNGIxYzNhYWE4ODE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1604761396664,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
